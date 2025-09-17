@@ -1,0 +1,1 @@
+This is short description about my site. Site is about Web-programming course. Nothing fancy to see.
